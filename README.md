@@ -21,4 +21,4 @@ extern int a;は他で宣言されている変数を参照するためのもの�
 
 
 #追記
-AppliedProgramming-Homework4フォルダ内のソースコードそれぞれアンダーバー以前の数字が問題の数字と揃えてあります
+AppliedProgramming-Homework4フォルダ内のソースコードそれぞれアンダーバー以前の数字と問題の数字揃えてあります
